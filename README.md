@@ -1,10 +1,10 @@
-## Hi there 👋
+## Hey there 👋
 
 - 🌱 I’m currently learning practical applications of my Computer Science knowledge in my Software Engineering course that I am taking at NC State.
 - 🔭 I’m currently working on applying my new skills to complete a budgeting application in hopes it can help me save up for personal ambitions.
 - ⚡ Fun fact: I am originally a South African immigrant.
-- 🤔 I’m looking for help with connecting with possible internship employers.
-- 📫 How to reach me: email: joshgiles57@gmail.com
+- 🤔 I’m looking for help connecting with possible internship employers.
+- 📫 How to reach me: joshgiles57@gmail.com
 - 😄 Pronouns: he/him
 
 <!--
