@@ -1,7 +1,7 @@
 ## Hi, I'm Joshua 💫
 
-🐺 Computer Science student at North Carolina State University.<br>
-🌳 Currently working on applying my new skills to complete a budgeting application to help save for personal ambitions.<br>
+🐺 Computer Science graduate at North Carolina State University.<br>
+🌳 Currently working on applying my new skills to complete a personal webpage to showcase my personality.<br>
 🌍 Fun fact: I am originally a South African immigrant.<br>
 🌟 The best way to reach me: [joshgiles57@gmail.com](joshgiles57@gmail.com)
 
